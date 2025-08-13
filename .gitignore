@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Node / tooling (por si se agrega luego)
+node_modules/
+
+# Imágenes generadas localmente o conversión temporal
+*.heic
+*.HEIC
+
+# Backups/temporales
+*.tmp
+*.bak
